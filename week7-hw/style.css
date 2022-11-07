@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+    background-color: black;
+  }
+  
+  h1 {
+    color: #373fff;
+  }
+
+  a {
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    color: blue;
+  }
+  
+  h2 {
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  p {
+    color: #ffffff;
+    text-align: center;
+  }
+
+  .examples {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  img {
+    width: 300px;
+  }

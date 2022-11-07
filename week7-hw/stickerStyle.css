@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    background-color: black;
+  }
+  
+  h1 {
+    color: #373fff;
+  }
+  
+  h2 {
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  p {
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  canvas {
+    position: absolute;
+    left: 25%;
+    top: 15%;
+  }
