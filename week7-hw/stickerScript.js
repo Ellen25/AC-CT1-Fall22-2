@@ -1,6 +1,3 @@
-// Machine Learning for New Interfaces | IMA @ NYU Shanghai
-// MLNI KNN Classification + poseNet
-
 console.log("ml5 version:", ml5.version);
 
 let video;
